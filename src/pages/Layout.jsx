@@ -2,7 +2,7 @@
 import React from "react";
 import AnimatedNetwork from "../components/background/AnimatedNetwork";
 import AccessibilityWidget from "../components/ui/AccessibilityWidget";
-import WhatsAppButton from "./components/ui/WhatsAppButton";
+import WhatsAppButton from "../components/ui/WhatsAppButton";
 
 export default function Layout({ children }) {
   return (
